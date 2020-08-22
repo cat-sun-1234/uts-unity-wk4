@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -2344083078646731297}
   m_Layer: 0
   m_Name: BlueSphere
-  m_TagString: Untagged
+  m_TagString: Blue
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -106,3 +106,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 831a4e2af6d9cf54ca10c491ab6665af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rend: {fileID: 3549034126059878594}
